@@ -1,33 +1,56 @@
-# Anamika
-# Hi there 👋 I'm Anamika Dutta
+# Hi, I'm Anamika Dutta
+
+B.Tech Data Science student at Amity University, focused on building practical AI systems in healthcare, automation, and machine learning.
 
 ## About Me
- B.Tech Data Science Student at Amity University  
- Skilled in Python, DBMS, C++, DSA  
- Interested in AI, Machine Learning, Data Science  
- Working on Breast Cancer Detection using Image and Tabular Data  
+
+I work on machine learning and AI-driven applications with a focus on solving real-world problems through data, automation, and intelligent systems.
+
+My current work includes healthcare diagnostics, financial automation, and computer vision systems.
 
 ## Tech Stack
-- Python
-- C++
-- Machine Learning
-- Data Science
-- Git
 
-## Current Projects
-- Breast Cancer Detection System
-- WhisperSpace
-- Image Segmentation Project
-- Dental app
-- LyRA - Your Financial Assistant
-- Health and diabetes tracker
+- Python  
+- C++  
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- Git  
 
-## Learning
-- Deep Learning
-- Basic Machine Learning
-- Graph Theory
+## Projects
 
-## Connect with Me
-LinkedIn: https://www.linkedin.com/in/anamika-dutta-066763335?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Breast Cancer Detection System**  
+  AI-powered breast cancer detection using image and tabular medical data.
 
-Email: anamikadutta16105@gmail.com
+- **Dental AI Application**  
+  Dental disease detection system with doctor dashboard integration.
+
+- **HealthGuard AI**  
+  Health risk scoring and diabetes prediction with personalized health recommendations.
+
+- **LyRa**  
+  AI-powered financial assistant for automated payments and subscription management.
+
+- **WhisperSpace**  
+  Communication-focused application built for real-time interaction.
+
+- **Desert Image Segmentation**  
+  Deep learning-based image segmentation for terrain classification.
+
+## Currently Learning
+
+- Advanced Machine Learning  
+- Deep Learning  
+- Graph Theory  
+
+## Connect
+
+LinkedIn:  
+:::writing{variant="standard" id="48291"}
+https://www.linkedin.com/in/anamika-dutta-066763335
+:::
+
+Email:  
+:::writing{variant="standard" id="48292"}
+anamikadutta16105@gmail.com
+:::
