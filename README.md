@@ -46,11 +46,11 @@ My current work includes healthcare diagnostics, financial automation, and compu
 ## Connect
 
 LinkedIn:  
-:::writing{variant="standard" id="48291"}
+:::
 https://www.linkedin.com/in/anamika-dutta-066763335
 :::
 
 Email:  
-:::writing{variant="standard" id="48292"}
+:::
 anamikadutta16105@gmail.com
 :::
