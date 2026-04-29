@@ -2,10 +2,10 @@
 # Hi there 👋 I'm Anamika Dutta
 
 ## About Me
-🎓 B.Tech Data Science Student at Amity University  
-💻 Skilled in Python, DBMS, C++, DSA  
-📊 Interested in AI, Machine Learning, Data Science  
-🔬 Working on Breast Cancer Detection using Image and Tabular Data  
+ B.Tech Data Science Student at Amity University  
+ Skilled in Python, DBMS, C++, DSA  
+ Interested in AI, Machine Learning, Data Science  
+ Working on Breast Cancer Detection using Image and Tabular Data  
 
 ## Tech Stack
 - Python
@@ -29,4 +29,5 @@
 
 ## Connect with Me
 LinkedIn: https://www.linkedin.com/in/anamika-dutta-066763335?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Email: anamikadutta16105@gmail.com
